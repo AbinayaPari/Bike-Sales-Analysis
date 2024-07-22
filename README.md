@@ -3,11 +3,11 @@
 
 ## Table of Contents
 
- -[Project Overview](#project-overview)
- -[Data Source](#data-source)
- -[Tools](#tools)
- -[Data Analysis](#data-analysis)
- -[Results and Findings](#results-and-findings)
+ - [Project Overview](#project-overview)
+ - [Data Source](#data-source)
+ - [Tools](#tools)
+ - [Data Analysis](#data-analysis)
+ - [Results and Findings](#results-and-findings)
 
 ### Project Overview
 An interactive Excel dashboard was created to visualize bike sales trends, utilizing dynamic charts, pivot tables, and VLOOKUP for automated data processing. This reduced manual effort by 40% and provided actionable insights for stakeholders.
